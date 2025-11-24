@@ -33417,9 +33417,9 @@
       "type": "Feature",
       "properties": {
         "stroke-opacity": 1,
-        "stroke": "#54B365",
+        "stroke": "#3FF5E9",
         "fill-opacity": 0.1,
-        "fill": "#6FED86"
+        "fill": "#9EF5EF"
       },
       "geometry": {
         "type": "Polygon",
