@@ -31492,9 +31492,9 @@
       "type": "Feature",
       "properties": {
         "stroke-opacity": 1,
-        "stroke": "#00FF00",
+        "stroke": "#90EE90",
         "fill-opacity": 0.1,
-        "fill": "#95F190"
+        "fill": "#98FF98"
       },
       "properties": {},
       "geometry": {
